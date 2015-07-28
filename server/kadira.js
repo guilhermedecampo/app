@@ -1,1 +1,1 @@
-Kadira.connect('dEEKc9YEGWukhmZKc', 'd92d44b4-ed4a-4394-90eb-4ecd48f80d83')
+Kadira.connect('', '')
