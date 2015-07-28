@@ -1,0 +1,17 @@
+{
+  "apn": {
+    "passphrase": "nSP2015app",
+    "key": "nspkey.pem",
+    "cert": "nspcert.pem",
+    "gateway": "gateway.sandbox.push.apple.com"
+  },
+  "gcm": {
+    "apiKey": "AIzaSyCv65gbd4thgojth78QZbt3YdQsjnep3h0",
+    "projectNumber": 893820401580
+  },
+  "production": true,
+  "badge": true,
+  "sound": true,
+  "alert": true,
+  "vibrate": true
+}

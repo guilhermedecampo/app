@@ -1,0 +1,30 @@
+@media screen and (min-width: 993px) {
+	body {
+		margin-left: 240px;
+		max-width: 712px;
+	}
+
+	nav#datas-navbar ul#nav-mobile {
+		width: 712px;
+	}
+
+	#mobile-demo {
+		left: 0 !important;
+	}
+
+	#mobile-demo figure {
+		height: 113px;
+	}
+
+	#header {
+		max-width: 712px;
+	}
+
+	#feed-datebar {
+		max-width: 712px;
+	}
+
+	#datas-navbar {
+		max-width: 712px;
+	}
+}
